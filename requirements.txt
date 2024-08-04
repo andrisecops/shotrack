@@ -1,0 +1,6 @@
+shodan
+cve_searchsploit
+ipcalc
+ipaddress
+requests
+argparse
